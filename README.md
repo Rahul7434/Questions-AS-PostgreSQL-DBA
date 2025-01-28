@@ -159,3 +159,41 @@ pg_profile
 4. What are the advantages and disadvantages of using link option?
 4. How do you find which objects are bloated in db?
 ```
+### DBaClass
+---------------------
+How To Install Postgres In Linux Using Rpm
+How To Install Postgres Database On Mac Os
+How To Create A Database In Postgres
+How To Drop A Database In Postgres
+How To Upgrade Postgres To New Version(from 12 to 14) 
+How To Clone A Postgres Database To Remote Server
+How To Enable And Disable Archive Mode In Postgres
+How To Move A Tablespace To New Directory In Postgres
+How To Move A Database To A New Tablespace In Postgres
+How To Change Postgres Data Directory
+How To Make A Postgres Database Readonly
+How To Change Port Number In Postgres
+How To Access Csv Files On File System Using File_fdw
+How To Create Database Link In Postgres
+How To Access Oracle Database From Postgres
+Monitor Sql Queries In Postgres Using Pg_stat_statements
+Generate Performance Report In Postgres Using Pg_profile
+
+-----------------
+
+### HIGH AVAILIBITY:
+How To Setup Streaming Replication In Postgres 14
+How To Setup Streaming Replication In Postgres 11
+EDB Failover Manager (EFM) For Managing Streaming Replication
+How To Create Tablespace In Postgres With Streaming Replication
+How To Do Failover In Postgres manually
+How To Do Switchover In Postgres
+How To Open Postgres Standby Database For Read Write(Snapshot Standby)
+How To Replicate Tables In Postgres Using EDB Replication Server
+
+---
+### TROUBLESHOOTING:
+ERROR: Permission Denied For Schema In Postgres
+Psql: Error: Could Not Connect To Server: FATAL: No Pg_hba.Conf Entry For Host
+Trigger File Validation Failed. Could Not Start Agent As Standby
+Edb Efm Start Failed With Authentication Failed Error On Standby
