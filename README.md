@@ -161,6 +161,7 @@ pg_profile
 ```
 ### DBaClass
 ---------------------
+```
 How To Install Postgres In Linux Using Rpm
 How To Install Postgres Database On Mac Os
 How To Create A Database In Postgres
@@ -178,22 +179,27 @@ How To Create Database Link In Postgres
 How To Access Oracle Database From Postgres
 Monitor Sql Queries In Postgres Using Pg_stat_statements
 Generate Performance Report In Postgres Using Pg_profile
+```
 
 -----------------
 
 ### HIGH AVAILIBITY:
-How To Setup Streaming Replication In Postgres 14
-How To Setup Streaming Replication In Postgres 11
-EDB Failover Manager (EFM) For Managing Streaming Replication
-How To Create Tablespace In Postgres With Streaming Replication
-How To Do Failover In Postgres manually
-How To Do Switchover In Postgres
-How To Open Postgres Standby Database For Read Write(Snapshot Standby)
-How To Replicate Tables In Postgres Using EDB Replication Server
+```
+1. How To Setup Streaming Replication In Postgres 14
+2. How To Setup Streaming Replication In Postgres 11
+3. EDB Failover Manager (EFM) For Managing Streaming Replication
+4. How To Create Tablespace In Postgres With Streaming Replication
+5. How To Do Failover In Postgres manually
+6. How To Do Switchover In Postgres
+7. How To Open Postgres Standby Database For Read Write(Snapshot Standby)
+8. How To Replicate Tables In Postgres Using EDB Replication Server
+```
 
 ---
 ### TROUBLESHOOTING:
-ERROR: Permission Denied For Schema In Postgres
-Psql: Error: Could Not Connect To Server: FATAL: No Pg_hba.Conf Entry For Host
-Trigger File Validation Failed. Could Not Start Agent As Standby
-Edb Efm Start Failed With Authentication Failed Error On Standby
+```
+1.ERROR: Permission Denied For Schema In Postgres
+2.Psql: Error: Could Not Connect To Server: FATAL: No Pg_hba.Conf Entry For Host
+3.Trigger File Validation Failed. Could Not Start Agent As Standby
+4.Edb Efm Start Failed With Authentication Failed Error On Standby
+```
